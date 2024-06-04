@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kusha Ranjan Bag
 - 👀 I’m interested in learning new technology
+- 🐱‍💻I'm a Salesforce Developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to gain experience
 - 📫 How to reach me: kusharanjanbag@gmail.com
